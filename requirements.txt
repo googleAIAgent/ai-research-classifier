@@ -2,3 +2,5 @@ streamlit
 tensorflow==2.10.1
 scikit-learn
 google-cloud-aiplatform
+numpy
+pandas
